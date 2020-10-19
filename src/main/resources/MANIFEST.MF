@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: javassist-3.24.0-GA.jar
+Premain-Class: com.ffutop.demo.plugin.httpclient.Agent
+Can-Retransform-Classes: true
